@@ -1,11 +1,4 @@
-# Awesome Algorithms
-
-A curated list of awesome places to learn and/or practice algorithms.
-Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) and all the other awesome Awesome libraries.
-
-If you want to contribute, please read the [contribution guidelines](https://github.com/tayllan/awesome-algorithms/blob/master/CONTRIBUTING.md).
-
-- [Awesome Algorithms](#awesome-algorithms)
+## ToC
     - [Websites](#websites)
     - [YouTube Playlists](#youtube-playlists)
     - [Online Courses](#online-courses)
@@ -55,20 +48,10 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 *Free and High-Quality Courses Online*
 
-* [Algorithms: Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) - The primary topics are: asymptotic ("Big-oh") notation, sorting and searching, divide and conquer, and randomized algorithms.
-* [Algorithms: Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) - The primary topics are: data structures, graph primitives, and their applications.
-* [Algorithms: Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) - The primary topics are: greedy algorithms and dynamic programming.
-* [Algorithms: Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) - The primary topics are: shortest paths, NP-completeness and what it means for the algorithm designer, and strategies for coping with computationally intractable problems.
-* [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1/home/welcome) - This course covers the essential information that every serious programmer needs to know about algorithms and data structures. Part I covers elementary data structures, sorting, and searching algorithms. 
-* [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) - Part II focuses on graph- and string-processing algorithms.
 * [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) - Algorithm course ministered by Tomas Cormen and Devin Balkcom.
-* [MIT - 6-006](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/video_galleries/lecture-videos/) - Well explained algorithms.
-* [MIT - 6-046j](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/) - Similar to the previous one, but with different algorithms.
 * [MIT - 6-00sc](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm) - An easy and well-explained introduction to algorithms.
 * [MIT 18-409 - Topics in Theoretical Computer Science: An Algorithmist's Toolkit](https://ocw.mit.edu/courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/) - It covers a collection of geometric techniques that apply broadly in modern algorithm design.
-* [Udacity Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215) - Python-based Algorithms course.
 * [Algorithms in Motion](https://www.manning.com/livevideo/algorithms-in-motion) - Beginner's algorithms course with fun illustrations, based on the book Grokking Algorithms
-* ~~[YogiBearian YouTube Channel](https://www.youtube.com/channel/UCv3Kd0guxD5KWQtP---9D6g) - Lots of well-explained videos on various computer science subjects.~~ _Account terminated due to violations of Youtube Policies._
 
 ## Books
 
@@ -139,7 +122,6 @@ If you want to contribute, please read the [contribution guidelines](https://git
     * [by @psjava](https://github.com/psjava/psjava)
     * [by @jeandersonbc](https://github.com/jeandersonbc/algorithms-and-ds)
     * [by @pedrovgs](https://github.com/pedrovgs/Algorithms)
-    * [by @Erdos-Graph-Framework](https://github.com/Erdos-Graph-Framework/Erdos)
     * [by @deepak-malik](https://github.com/deepak-malik/Data-Structures-In-Java)
     * [by @yusufcakal](https://github.com/yusufcakal/algorithms)
     * [by @FarheenB](https://github.com/FarheenB/Data-Structures-and-Algorithms)
@@ -155,10 +137,6 @@ If you want to contribute, please read the [contribution guidelines](https://git
     * [by @zonayedpca](https://github.com/zonayedpca/AlgoDS.js)
 * Lua
     * [by @evandrolg](https://github.com/EvandroLG/computer_science_in_lua)
-* Objective-C
-    * [by @ EvgenyKarkan](https://github.com/EvgenyKarkan/EKAlgorithms)
-* PHP
-    * [by @TheAlgorithms](https://github.com/TheAlgorithms/PHP)
 * Python
     * [by @nryoung](https://github.com/nryoung/algorithms)
     * [by @prakhar1989](https://github.com/prakhar1989/Algorithms)
@@ -170,11 +148,6 @@ If you want to contribute, please read the [contribution guidelines](https://git
     * [by @kanwei](https://github.com/kanwei/algorithms)
     * [by @sagivo](https://github.com/sagivo/algorithms)
     * [by @kumar91gopi](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
-* [Scala](https://github.com/vkostyukov/scalacaster)
-* Swift
-    * [by @kingreza](https://github.com/kingreza/Swift-Algorithms-Strings-)
-    * [by @waynewbishop](https://github.com/waynewbishop/SwiftStructures)
-    * [by @hollance](https://github.com/hollance/swift-algorithm-club)
 * Language agnostic
     * [by @kennyledet](https://github.com/kennyledet/Algorithm-Implementations)
     * [by @indy256](https://github.com/indy256/codelibrary)
@@ -243,11 +216,5 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Math](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
 - [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science/blob/main/README.md) - The interdisciplinary of Mathematics and Computer Science, Distinguished by its emphasis on mathematical technique and rigour.
 
-
-## License
-
-And for the sake of copyleft, here's our license:
-
-[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
