@@ -13,27 +13,21 @@
 
 *Websites you should use to learn classic algorithms*
 
-* [A Visual Guide to Graph Traversal Algorithms](https://workshape.github.io/visual-graph-algorithms/) - Interactive visualizations for learning how graph traversal algorithms work.
 * [W3School](https://www.w3schools.in/data-structures-tutorial/intro/) - Data Structures tutorial.
 * [CodeChef](https://www.codechef.com/LEARNDSA/) - Learning DSA by practice on Codechef
 * [Algorithm Visualizer](http://algo-visualizer.jasonpark.me/) - Dozens of animated algorithms (with code), and you can also create your own.
 * [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/) - A dense article on Algorithms Visualization.
 * [Big-O Cheat Sheet](http://bigocheatsheet.com/) - Big-O complexities of common algorithms used in Computer Science.
-* [Code-Drills](https://code-drills.com/tools/comparator) - Practice problems recommender (includes Codeforces, Codechef, and Spoj).
 * [CP-Algorithms](https://cp-algorithms.com/) - Algorithms and data structures are especially popular in the field of competitive programming.
 * [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Visualize the behavior of Data Structures and play with its operations.
-* [Geeks for Geeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) - Lots and lots of well-explained and implemented algorithms.
-* [Path Finding](https://qiao.github.io/PathFinding.js/visual/) - A visual representation of how algorithms such as A\*, IDA\*, Breadth-First-Search, Best-First-Search, and others describe a path between two points A and B.
 * [Programiz](https://www.programiz.com/dsa) - Easy to follow tutorials on data structures and algorithms along with suitable examples.
 * [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code) - A programming chrestomathy site that aims to present implementations of many algorithms and data structures in different programming languages.
 * [Sorting Algorithms](http://www.sorting-algorithms.com/) - Nice and simple animations of sorting algorithms. With short codes and discussions.
-* [Stoimen's web log](http://www.stoimen.com/) - Some algorithms nicely explained.
 * [The Sound of Sorting](http://panthema.net/2013/sound-of-sorting/) - The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms
-* [VisuAlgo](http://visualgo.net) - Visualising data structures and algorithms through animation.
-* [Wikipedia - Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms) - Of course!!
+* [VisuAlgo](http://visualgo.net) - Visualising data structures and algorithms through animation. (ok)
 * [Wikipedia - Data Structures](https://en.wikipedia.org/wiki/List_of_data_structures) - and why not ?!!
 * [Learnersbucket](https://learnersbucket.com/) - Tutorials on data structures and algorithms in Javascript.
-* [redblobgames](https://www.redblobgames.com/) - interactive visual explanations of math and algorithms, using motivating examples from computer games.
+* [redblobgames](https://www.redblobgames.com/) - interactive visual explanations of algorithms. 
 
 ## Youtube Playlists
 
@@ -50,8 +44,6 @@
 *Free and High-Quality Courses Online*
 
 * [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) - Algorithm course ministered by Tomas Cormen and Devin Balkcom.
-* [MIT - 6-00sc](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm) - An easy and well-explained introduction to algorithms.
-* [MIT 18-409 - Topics in Theoretical Computer Science: An Algorithmist's Toolkit](https://ocw.mit.edu/courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/) - It covers a collection of geometric techniques that apply broadly in modern algorithm design.
 * [Algorithms in Motion](https://www.manning.com/livevideo/algorithms-in-motion) - Beginner's algorithms course with fun illustrations, based on the book Grokking Algorithms
 
 ## Books
