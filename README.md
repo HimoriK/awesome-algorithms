@@ -1,5 +1,6 @@
 ## ToC
-    - [Websites](#websites)
+
+- [Websites](#websites)
     - [YouTube Playlists](#youtube-playlists)
     - [Online Courses](#online-courses)
     - [Books](#books)
@@ -66,7 +67,6 @@
 * [Data Structures and Algorithms Made Easy](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X) - A great way to implement algorithms with their specific programmable tasks.
 * [Data Structures Using C](http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467) - The basic concepts and usages of data structures.
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
-* [Grokking Algorithms](http://www.manning.com/bhargava) - An illustrated book on algorithms with practical examples.
 * [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms) - Essential!
 * [Real World Algorithms: A Beginner's Guide](https://mitpress.mit.edu/books/real-world-algorithms) - An introduction to algorithms for readers with no background in advanced mathematics or computer science.
 * [Swift Algorithms & Data Structures](http://shop.waynewbishop.com/) - A practical guide to concepts, theory, and code.
@@ -75,7 +75,6 @@
 * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-second-edition)
 * [Algorithms and Data Structures in Action](https://www.manning.com/books/algorithms-and-data-structures-in-action) - A different and a great way to introduce algorithms and data structures that can be used at work.
 * [Algorithmic Puzzles](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445) - A very accessible illustration of algorithms in the forms of puzzles. No programming experience is required!
-* [Standford CS166](https://web.stanford.edu/class/cs166/) - Standford CS166, a course in the design, analysis, and implementation of data structures.
 
 ### Algorithm Analysis
 - [Sedgewick & Flajolet. An Introduction to the Analysis of Algorithm](https://www.amazon.com/Introduction-Analysis-Algorithms-Introdu-Algori_p2-ebook/dp/B00B3TB7IQ) - Am advanced complete survey, intended only for the mathematically matured reader.
@@ -111,20 +110,9 @@
     * [by @PetarV-](https://github.com/PetarV-/Algorithms)
     * [by @faheel](https://github.com/faheel/Algos)
     * [by @sslotin](http://github.com/sslotin/algo)
-* [Erlang](https://github.com/aggelgian/erlang-algorithms)
 * Go
     * [by @arnauddri](https://github.com/arnauddri/algorithms)
     * [by @floyernick](https://github.com/floyernick/Data-Structures-and-Algorithms)
-* Java
-    * [by @jpa99](https://github.com/jpa99/Algorithms)
-    * [by @phishman3579](https://github.com/phishman3579/java-algorithms-implementation)
-    * [by @asmolich](https://github.com/asmolich/algorithms)
-    * [by @psjava](https://github.com/psjava/psjava)
-    * [by @jeandersonbc](https://github.com/jeandersonbc/algorithms-and-ds)
-    * [by @pedrovgs](https://github.com/pedrovgs/Algorithms)
-    * [by @deepak-malik](https://github.com/deepak-malik/Data-Structures-In-Java)
-    * [by @yusufcakal](https://github.com/yusufcakal/algorithms)
-    * [by @FarheenB](https://github.com/FarheenB/Data-Structures-and-Algorithms)
 * JavaScript
     * [by @jiayihu](https://github.com/jiayihu/pretty-algorithms)
     * [by @felipernb](https://github.com/felipernb/algorithms.js)
@@ -144,10 +132,6 @@
     * [by @nbro](https://github.com/nbro/ands)
     * [by @keon](https://github.com/keon/algorithms)
     * [by @vinta](https://github.com/vinta/fuck-coding-interviews)
-* Ruby
-    * [by @kanwei](https://github.com/kanwei/algorithms)
-    * [by @sagivo](https://github.com/sagivo/algorithms)
-    * [by @kumar91gopi](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
 * Language agnostic
     * [by @kennyledet](https://github.com/kennyledet/Algorithm-Implementations)
     * [by @indy256](https://github.com/indy256/codelibrary)
@@ -213,8 +197,4 @@
 * [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - Interactive, test-driven coding challenges (algorithms and data structures).
 
 ## Related Awesome Lists
-- [Math](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
 - [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science/blob/main/README.md) - The interdisciplinary of Mathematics and Computer Science, Distinguished by its emphasis on mathematical technique and rigour.
-
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
