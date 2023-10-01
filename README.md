@@ -11,9 +11,6 @@
 
 ## Websites
 
-*Websites you should use to learn classic algorithms*
-
-* [W3School](https://www.w3schools.in/data-structures-tutorial/intro/) - Data Structures tutorial.
 * [CodeChef](https://www.codechef.com/LEARNDSA/) - Learning DSA by practice on Codechef
 * [Algorithm Visualizer](http://algo-visualizer.jasonpark.me/) - Dozens of animated algorithms (with code), and you can also create your own.
 * [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/) - A dense article on Algorithms Visualization.
@@ -25,30 +22,21 @@
 * [Sorting Algorithms](http://www.sorting-algorithms.com/) - Nice and simple animations of sorting algorithms. With short codes and discussions.
 * [The Sound of Sorting](http://panthema.net/2013/sound-of-sorting/) - The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms
 * [VisuAlgo](http://visualgo.net) - Visualising data structures and algorithms through animation. (ok)
-* [Wikipedia - Data Structures](https://en.wikipedia.org/wiki/List_of_data_structures) - and why not ?!!
-* [Learnersbucket](https://learnersbucket.com/) - Tutorials on data structures and algorithms in Javascript.
-* [redblobgames](https://www.redblobgames.com/) - interactive visual explanations of algorithms. 
+* [Wikipedia - Data Structures](https://en.wikipedia.org/wiki/List_of_data_structures) 
+* [Learnersbucket](https://learnersbucket.com/) - Tutorials on DSA in Javascript.
+* [redblobgames](https://www.redblobgames.com/) - interactive explanations of algorithms. 
 
 ## Youtube Playlists
 
-*High Quality Courses and tutorials on youtube*
-
-* [FreeCodeCamp - Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0) - Complete beginner friendly Algorithms and Data Structures Tutorial with mindblowing animation.
-
-* [Abdul Bari - Introduction to Algorithm](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) - This playlist is so much informative and provide simulation with code example. As like as you are in a class.
-
-* [Jenny's Lectures- Algorithm](https://www.youtube.com/watch?v=AT14lCXuMKI&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU) - Another complete alogrithm playlist from basic level to intermediate. Easy explanation and simulation.
+* [FreeCodeCamp - Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0) - Beginner friendly DSA tutorial
+* [Jenny's Lectures- Algorithm](https://www.youtube.com/watch?v=AT14lCXuMKI&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU) - Playlist from basic level to intermediate.
 
 ## Online Courses
 
-*Free and High-Quality Courses Online*
-
-* [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) - Algorithm course ministered by Tomas Cormen and Devin Balkcom.
-* [Algorithms in Motion](https://www.manning.com/livevideo/algorithms-in-motion) - Beginner's algorithms course with fun illustrations, based on the book Grokking Algorithms
+* [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) - Algorithm course by Tomas Cormen and Devin Balkcom.
+* [Algorithms in Motion](https://www.manning.com/livevideo/algorithms-in-motion) - Beginner's algorithms course with illustrations, based on the book Grokking Algorithms
 
 ## Books
-
-*The most highly regarded books to learn algorithms*
 
 ### Algorithms and Data structures
 * [Algorithm Design](https://www.pearsonhighered.com/program/Kleinberg-Algorithm-Design/PGM319216.html) - Pretty straightforward.
